@@ -1,74 +1,66 @@
 {
+  "files": {
     "code": 200,
     "message": null,
     "data": {
-        "checkList": [
-            {
-                "type": "01",
-                "checkName": "01 分判工程付款书",
-                "fileUrlList": [
-                    "/project-card-test/FILE/07%E5%8F%91%E7%A5%A81.pdf"
-                ],
-                "isExist": true
-            },
-            {
-                "type": "02",
-                "checkName": "02 工程进度报告",
-                "fileUrlList": [
-                    "/project-card-test/FILE/07%E5%8F%91%E7%A5%A82.pdf"
-                ],
-                "isExist": true
-            },
-            {
-                "type": "03",
-                "checkName": "03 施工方案审核",
-                "fileUrlList": [
-                    "/project-card-test/FILE/07%E5%8F%91%E7%A5%A83.pdf"
-                ],
-                "isExist": false
-            },
-            {
-                "type": "04",
-                "checkName": "04 材料质量检验",
-                "fileUrlList": [
-                    "project-card-test/FILE/07%E5%8F%91%E7%A5%A84.pdf"
-                ],
-                "isExist": true
-            },
-            {
-                "type": "05",
-                "checkName": "05 安全措施审查",
-                "fileUrlList": [
-                    "/project-card-test/FILE/06-BLA-02-2464.pdf"
-                ],
-                "isExist": false
-            },
-            {
-                "type": "06",
-                "checkName": "06 工程变更申请",
-                "fileUrlList": [
-                    "/project-card-test/FILE/06-QS24%201207.pdf",
-                    "/project-card-test/FILE/06-BLA-02-2463.pdf"
-                ],
-                "isExist": true
-            },
-            {
-                "type": "07",
-                "checkName": "07 竣工验收报告",
-                "fileUrlList": [
-                    "/project-card-test/FILE/07-%20%E5%88%86%E5%88%A4invoice-%E6%BE%B3%E5%88%A9%E5%BB%BA%E7%AD%91.pdf",
-                    "/project-card-test/FILE/07%E5%8F%91%E7%A5%A81.pdf"
-                ],
-                "isExist": false
-            },
-            {
-                "type": "08",
-                "checkName": "08 项目总结文件",
-                "fileUrlList": [
-                    "/project-card-test/FILE/07-%20%E5%88%86%E5%88%A4invoice-%E6%BE%B3%E5%88%A9%E5%BB%BA%E7%AD%91.pdf"
-                ],
-                "isExist": true
-            }
-        ]
+      "checkList": [
+        {
+          "type": "01",
+          "checkName": "01 分判工程付款书",
+          "fileUrlList": ["/project-card-test/FILE/07%E5%8F%91%E7%A5%A81.pdf"],
+          "isExist": true
+        },
+        {
+          "type": "02",
+          "checkName": "02 工程进度报告",
+          "fileUrlList": ["/project-card-test/FILE/07%E5%8F%91%E7%A5%A82.pdf"],
+          "isExist": true
+        },
+        {
+          "type": "03",
+          "checkName": "03 施工方案审核",
+          "fileUrlList": ["/project-card-test/FILE/07%E5%8F%91%E7%A5%A83.pdf"],
+          "isExist": false
+        },
+        {
+          "type": "04",
+          "checkName": "04 材料质量检验",
+          "fileUrlList": ["project-card-test/FILE/07%E5%8F%91%E7%A5%A84.pdf"],
+          "isExist": true
+        },
+        {
+          "type": "05",
+          "checkName": "05 安全措施审查",
+          "fileUrlList": ["/project-card-test/FILE/06-BLA-02-2464.pdf"],
+          "isExist": false
+        },
+        {
+          "type": "06",
+          "checkName": "06 工程变更申请",
+          "fileUrlList": [
+            "/project-card-test/FILE/06-QS24%201207.pdf",
+            "/project-card-test/FILE/06-BLA-02-2463.pdf"
+          ],
+          "isExist": true
+        },
+        {
+          "type": "07",
+          "checkName": "07 竣工验收报告",
+          "fileUrlList": [
+            "/project-card-test/FILE/07-%20%E5%88%86%E5%88%A4invoice-%E6%BE%B3%E5%88%A9%E5%BB%BA%E7%AD%91.pdf",
+            "/project-card-test/FILE/07%E5%8F%91%E7%A5%A81.pdf"
+          ],
+          "isExist": false
+        },
+        {
+          "type": "08",
+          "checkName": "08 项目总结文件",
+          "fileUrlList": [
+            "/project-card-test/FILE/07-%20%E5%88%86%E5%88%A4invoice-%E6%BE%B3%E5%88%A9%E5%BB%BA%E7%AD%91.pdf"
+          ],
+          "isExist": true
+        }
+      ]
     }
+  }
 }
