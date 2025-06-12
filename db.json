@@ -7,7 +7,9 @@
         {
           "type": "01",
           "checkName": "01 分判工程付款书",
-          "fileUrlList": ["/project-card-test/FILE/07%E5%8F%91%E7%A5%A81.pdf"],
+          "fileUrlList": [
+            "https://five-show-public.oss-cn-shenzhen.aliyuncs.com/%E7%B0%BD%E5%AD%97-%E5%88%86%E5%88%A4%E5%B7%A5%E7%A8%8B%E4%BB%98%E6%AC%BE%E6%9B%B8.pdf?Expires=1749719233&OSSAccessKeyId=TMP.3KrKejLQt5EBCvvi6PjGp67gb4YUDBFwfAk38z2To7T1gv9ZzhNxYmi69xtGP2MG12hYt3QQfKfG3JYgBmCXBs9fmgRXCR&Signature=%2B%2BiV%2BpD3IJt7KEY%2BWiwEtC2%2Bjlw%3D"
+          ],
           "isExist": true
         },
         {
@@ -31,15 +33,14 @@
         {
           "type": "05",
           "checkName": "05 安全措施审查",
-          "fileUrlList": ["/project-card-test/FILE/06-BLA-02-2464.pdf"],
+          "fileUrlList": [],
           "isExist": false
         },
         {
           "type": "06",
           "checkName": "06 工程变更申请",
           "fileUrlList": [
-            "/project-card-test/FILE/06-QS24%201207.pdf",
-            "/project-card-test/FILE/06-BLA-02-2463.pdf"
+            "https://five-show-public.oss-cn-shenzhen.aliyuncs.com/06-QS24%201217.pdf?Expires=1749719245&OSSAccessKeyId=TMP.3KrKejLQt5EBCvvi6PjGp67gb4YUDBFwfAk38z2To7T1gv9ZzhNxYmi69xtGP2MG12hYt3QQfKfG3JYgBmCXBs9fmgRXCR&Signature=eVWEvlA4JZI6aZmkEJ%2Fen2R76%2Bg%3D"
           ],
           "isExist": true
         },
@@ -47,18 +48,16 @@
           "type": "07",
           "checkName": "07 竣工验收报告",
           "fileUrlList": [
-            "/project-card-test/FILE/07-%20%E5%88%86%E5%88%A4invoice-%E6%BE%B3%E5%88%A9%E5%BB%BA%E7%AD%91.pdf",
-            "/project-card-test/FILE/07%E5%8F%91%E7%A5%A81.pdf"
+            "https://five-show-public.oss-cn-shenzhen.aliyuncs.com/DBC-BMF-001-1_%E6%98%8E%E7%BB%86.pdf?Expires=1749719253&OSSAccessKeyId=TMP.3KrKejLQt5EBCvvi6PjGp67gb4YUDBFwfAk38z2To7T1gv9ZzhNxYmi69xtGP2MG12hYt3QQfKfG3JYgBmCXBs9fmgRXCR&Signature=XupGJZH2lKe7%2BcmE7ps%2BxWmSrN4%3D",
+            "https://five-show-public.oss-cn-shenzhen.aliyuncs.com/07-%20%E5%88%86%E5%88%A4invoice-%E6%BE%B3%E5%88%A9%E5%BB%BA%E7%AD%91.pdf?Expires=1749719261&OSSAccessKeyId=TMP.3KrKejLQt5EBCvvi6PjGp67gb4YUDBFwfAk38z2To7T1gv9ZzhNxYmi69xtGP2MG12hYt3QQfKfG3JYgBmCXBs9fmgRXCR&Signature=NBYMkQRZfc6ZBx4C%2B5mTkiJ0HUc%3D"
           ],
-          "isExist": false
+          "isExist": true
         },
         {
           "type": "08",
           "checkName": "08 项目总结文件",
-          "fileUrlList": [
-            "/project-card-test/FILE/07-%20%E5%88%86%E5%88%A4invoice-%E6%BE%B3%E5%88%A9%E5%BB%BA%E7%AD%91.pdf"
-          ],
-          "isExist": true
+          "fileUrlList": [],
+          "isExist": false
         }
       ]
     }
